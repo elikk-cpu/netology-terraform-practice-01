@@ -1,0 +1,1 @@
+Не коммитьте terraform.tfstate, terraform.tfstate.backup, personal.auto.tfvars, токены и пароли: Terraform state может содержать секретные значения. Файл .terraform.lock.hcl создаётся командой terraform init.
